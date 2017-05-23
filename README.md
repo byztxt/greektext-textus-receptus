@@ -8,6 +8,12 @@ texts with morphological parsing and Strong's numbers.
 This repo contains Dr. Robinson's New Testament Greek text edition of
 Textus Receptus.
 
+## Internet addresses?
+
+1. https://www.byzantinetext.com
+
+2. https://github.com/byztxt/
+
 ## License?
 
 Public Domain.  Copy freely.
