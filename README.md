@@ -8,6 +8,13 @@ texts with morphological parsing and Strong's numbers.
 This repo contains Dr. Robinson's New Testament Greek text edition of
 Textus Receptus.
 
+## Variant readings
+
+Where the text gives `| A | B |`, the two readings appear to be
+**Stephanus 1550** (A) and **Scrivener 1894** (B).  The Robinson source
+files themselves do not identify the editions behind the readings; the
+identification is based on comparison with the published texts.
+
 ## Internet addresses?
 
 1. https://www.byzantinetext.com
